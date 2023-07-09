@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dts>
+		<d>
+			<ten>Điện thoại Vivo Y33s</ten>
+			<gia>53000</gia>
+			<giamgia>6</giamgia>
+			<anh>image/vivo-y33s-1-3.jpg</anh>
+			<links>image/vivo-y33s-1-3.jpg image/vivo-v23e-xanh-1.jpg image/vivo-y55-2022-trang-1.jpg image/vivo-y21s-xanh-1.jpg image/vivo-y15s-2021-tx-1.jpg </links>
+			<tieude>Thiết kế bóng bẩy, các chi tiết được hoàn thiện tốt</tieude>
+			<nd>Trên tay mình hiện tại là Vivo Y33s - chiếc điện thoại này có thiết kế khá tương đồng với các sản phẩm tầm trung mà Vivo cho ra mắt gần đây, vẫn là một sản phẩm có thiết kế trẻ trung với màu đen tráng gương và xanh mộng mơ. Ở phiên bản màu đen được phủ một lớp tráng gương sáng bóng, vào một số trường hợp nó có thể trở thành một chiếc gương soi tiện lợi, tuy nhiên khi sử dụng sẽ bị lưu lại vân tay khá rõ ràng.</nd>
+			<manhinh>IPS LCD6.58"Full HD+</manhinh>
+			<hdh>Android 11</hdh>
+			<camsau>Chính 50 MP và Phụ 2 MP, 2 MP</camsau>
+			<camtruoc>16 MP</camtruoc>
+			<cpu>MediaTek Helio G80</cpu>
+			<ram>8 GB</ram>
+			<rom>128 GB</rom>
+			<bonhongoai>Hổ trợ khe cắm thẻ nhớ 1TB</bonhongoai>
+			<sim>2 Nano SIMHỗ trợ 4G</sim>
+			<pin>5000 mAh18 W</pin>
+			<ngay>23</ngay>
+			<thang>5</thang>
+			<nam>2022</nam>
+			<gio>8</gio>
+			<phut>10</phut>
+			<giay>0</giay>
+		</d>
+		<d>
+			<ten>Điện thoại Vivo V23e</ten>
+			<gia>79000</gia>
+			<giamgia>6</giamgia>
+			<anh>image/vivo-v23e-xanh-1.jpg</anh>
+			<links>image/vivo-y33s-1-3.jpg image/vivo-v23e-xanh-1.jpg image/vivo-y55-2022-trang-1.jpg image/vivo-y21s-xanh-1.jpg image/vivo-y15s-2021-tx-1.jpg </links>
+			<tieude>Vivo V23e - sản phẩm tầm trung được đầu tư lớn về khả năng selfie cùng ngoại hình mỏng nhẹ, bên cạnh thiết kế vuông vức theo xu hướng hiện tại thì V23e còn có hiệu năng tốt và một viên pin có khả năng sạc cực nhanh.</tieude>
+			<nd>Thiết kế mỏng nhẹ cùng màu sắc tinh tế. Vivo V23e vẫn giữ đặc điểm nổi bật của Vivo V Series với thiết kế mỏng 7.36 mm ấn tượng (ở phiên bản màu đen). Viền màn hình 2 cạnh bên có độ mỏng ở mức vừa phải, tuy nhiên thì phần cạnh dưới thì có dày hơn một chút.</nd>
+			<manhinh>AMOLED6.44"Full HD+</manhinh>
+			<hdh>Android 11</hdh>
+			<camsau>Chính 64 MP và Phụ 8 MP, 2 MP</camsau>
+			<camtruoc>50 MP</camtruoc>
+			<cpu>MediaTek Helio G96 8 nhân</cpu>
+			<ram>8 GB</ram>
+			<rom>128 GB</rom>
+			<bonhongoai>Hổ trợ khe cắm thẻ nhớ 1TB</bonhongoai>
+			<sim>2 Nano SIM (SIM 2 chung khe thẻ nhớ)Hỗ trợ 4G</sim>
+			<pin>4050 mAh44 W</pin>
+			<ngay>6</ngay>
+			<thang>9</thang>
+			<nam>2022</nam>
+			<gio>8</gio>
+			<phut>10</phut>
+			<giay>0</giay>
+		</d>
+		<d>
+			<ten>Điện thoại Vivo Y55 </ten>
+			<gia>60000</gia>
+			<giamgia>6</giamgia>
+			<anh>image/vivo-y55-2022-trang-1.jpg</anh>
+			<links>image/vivo-y33s-1-3.jpg image/vivo-v23e-xanh-1.jpg image/vivo-y55-2022-trang-1.jpg image/vivo-y21s-xanh-1.jpg image/vivo-y15s-2021-tx-1.jpg </links>
+			<tieude>Vivo Y55 là một cái tên sáng giá dành cho những ai đang muốn chọn mua một chiếc điện thoại phục vụ việc chơi game nhờ cấu hình ổn định trên mức giá phải chăng, kèm với đó là khả năng chụp ảnh sắc nét hỗ trợ bạn trong các công việc nhiếp ảnh cực kỳ dễ dàng.</tieude>
+			<nd>Diện mạo trẻ trung đầy cá tính. Vivo cho ra mắt Y55 4G với hai màu sắc được khá nhiều người dùng chọn mua, mang đến hai sự lựa chọn dành cho những bạn yêu thích sự tinh tế, tao nhã trên phiên bản màu trắng hay ưa chuộng màu đen nam tính, mạnh mẽ.</nd>
+			<manhinh>AMOLED6.44"Full HD+</manhinh>
+			<hdh>Android 12</hdh>
+			<camsau>Chính 50 MP và Phụ 2 MP, 2 MP</camsau>
+			<camtruoc>16 MP</camtruoc>
+			<cpu>Snapdragon 680 8 nhân</cpu>
+			<ram>8 GB</ram>
+			<rom>128 GB</rom>
+			<bonhongoai>Hổ trợ khe cắm thẻ nhớ 1TB</bonhongoai>
+			<sim>2 Nano SIMHỗ trợ 4G</sim>
+			<pin>5000 mAh44 W</pin>
+			<ngay>6</ngay>
+			<thang>5</thang>
+			<nam>2022</nam>
+			<gio>8</gio>
+			<phut>10</phut>
+			<giay>0</giay>
+		</d>
+		<d>
+			<ten>Điện thoại Vivo Y21s 6GB </ten>
+			<gia>50000</gia>
+			<giamgia>6</giamgia>
+			<anh>image/vivo-y21s-xanh-1.jpg</anh>
+			<links>image/vivo-y33s-1-3.jpg image/vivo-v23e-xanh-1.jpg image/vivo-y55-2022-trang-1.jpg image/vivo-y21s-xanh-1.jpg image/vivo-y15s-2021-tx-1.jpg </links>
+			<tieude>Vivo chính thức tung ra chiếc điện thoại Vivo Y21s với hàng loạt các ưu điểm nổi bật, không chỉ ngoại hình bên ngoài mà cả sức mạnh bên trong. Đặc biệt, chiếc smartphone này còn sở hữu mức giá cực tốt trong phân khúc, hứa hẹn sẽ đáp ứng tốt nhu cầu giải trí của bạn.</tieude>
+			<nd>Cụm camera vượt trội, bắt trọn các khoảnh khắc Việc bạn trở thành một nhà nhiếp ảnh sẽ cực kỳ dễ dàng với hệ thống 3 camera sau với camera chính có độ phân giải 50 MP cho những bức ảnh sắc nét, chất lượng cao dù bạn chụp vào ban ngày hay ban đêm.</nd>
+			<manhinh>IPS LCD6.51"HD+</manhinh>
+			<hdh>Android 12</hdh>
+			<camsau>Chính 50 MP và Phụ 2 MP, 2 MP</camsau>
+			<camtruoc>8 MP</camtruoc>
+			<cpu>MediaTek Helio G80</cpu>
+			<ram>6 GB</ram>
+			<rom>128 GB</rom>
+			<bonhongoai>Hổ trợ khe cắm thẻ nhớ 1TB</bonhongoai>
+			<sim>2 Nano SIMHỗ trợ 4G</sim>
+			<pin>5000 mAh18 W</pin>
+			<ngay>24</ngay>
+			<thang>5</thang>
+			<nam>2022</nam>
+			<gio>8</gio>
+			<phut>10</phut>
+			<giay>0</giay>
+		</d>
+		<d>
+			<ten>Điện thoại Vivo Y15s </ten>
+			<gia>30000</gia>
+			<giamgia>6</giamgia>
+			<anh>image/vivo-y15s-2021-tx-1.jpg</anh>
+			<links>image/vivo-y33s-1-3.jpg image/vivo-v23e-xanh-1.jpg image/vivo-y55-2022-trang-1.jpg image/vivo-y21s-xanh-1.jpg image/vivo-y15s-2021-tx-1.jpg </links>
+			<tieude>Vivo vừa mang một chiến binh mới đến phân khúc tầm trung giá rẻ có tên Vivo Y15s, một sản phẩm sở hữu khá nhiều ưu điểm như thiết kế đẹp, màn hình lớn, camera kép, pin cực trâu và còn rất nhiều điều thú vị khác đang chờ đón bạn.</tieude>
+			<nd>Ngoại hình sang trọng, ấn tượng. Vivo Y15s sở hữu nhiều điểm tương đồng với những "người anh em" Vivo Y15 của mình khi toàn bộ thân máy làm bằng Polymer cao cấp, thiết kế cong cạnh 3D và kiểu dáng mỏng nhẹ chỉ 8.28 mm đem lại cảm giác cầm máy trong tay khá thoải mái. Mặt lưng hoàn thiện với họa tiết kẻ sọc mờ với hai tùy chọn màu sắc Xanh Biển Sâu và Trắng có khả năng chuyển sáng xanh vô cùng đẹp mắt.</nd>
+			<manhinh>IPS LCD6.51"HD+</manhinh>
+			<hdh>Android 11</hdh>
+			<camsau>Chính 13 MP và Phụ 2 MP</camsau>
+			<camtruoc>8 MP</camtruoc>
+			<cpu>MediaTek Helio P35</cpu>
+			<ram>3 GB</ram>
+			<rom>32 GB</rom>
+			<bonhongoai>Hổ trợ khe cắm thẻ nhớ 1TB</bonhongoai>
+			<sim>2 Nano SIMHỗ trợ 4G</sim>
+			<pin>5000 mAh10 W</pin>
+			<ngay>20</ngay>
+			<thang>5</thang>
+			<nam>2022</nam>
+			<gio>8</gio>
+			<phut>10</phut>
+			<giay>0</giay>
+		</d>
+	</dts>

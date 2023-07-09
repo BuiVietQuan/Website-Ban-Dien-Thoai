@@ -1,0 +1,137 @@
+<!doctype html>
+<html>
+<head>
+<link rel="shortcut icon" href="image/images.png">
+<link type="text/css" href="dangnhap.css" rel="stylesheet">
+<meta charset="utf-8">
+<title>ĐĂNG NHẬP</title>
+</head>
+
+<body bgcolor="#EEEEEE">
+<div id="wrap">
+<div id="header"> <a href="TRANGCHU.html"><img src="image/Logo-Apple-123-02.png" style="width: 70px; float: left; margin-left: 10px;"> <br>
+  <h2 class="h2">24H CÔNG NGHỆ</h2>
+  <!-- <form>
+    <select name="nn">
+      <option value="Vn">VN</option>
+      <option value="ENG">ENG</option>
+    </select>
+  </form>
+ -->
+  <input type="submit" value="">
+  <form>
+    <input type="text" name="search" placeholder="Tìm bài viết, sản phẩm...">
+  </form>
+</div>
+<div id="menu">
+  <div class="ul">
+    <ul>
+      <h3>
+        <li> <a href="trangchutintuc.html" id="a1"> Trang chủ</a></li>
+        <li> <a href="#" id="a1"> Tin Công nghệ </a> </li>
+        <li> <a href="#" id="a1"> Tin Video </a> </li>
+        <li> <a href="#" id="a1"> Diễn đàn </a> </li>
+        <li> <a href="#" id="a1"> Góp ý</a> </li>
+      </h3>
+    </ul>
+  </div>
+<br>
+<div id="contend"> <br>
+<div class="divtk"><strong>Chào mừng đến với 24H CÔNG NGHỆ. Đăng nhập ngay! </strong></div>
+<div class="divtk2">Bạn chưa có tài khoản ? <a href="dangki.html">Đăng ký</a> ngay.</div>
+<br>
+<br>
+  <div id="contend1">
+  <br>
+    <form action="diendan.html" method="post" name="dangky" onSubmit="return KiemTra()">
+    Tên đăng nhập :<br>
+    <label for="txtTenDN"></label>
+    <input name="txtTenDN" type="text" id="txtTenDN" size="20" >
+    <br>
+    Mật khẩu : <br>
+    <label for="txtMatKhau"></label>
+    <input name="txtMatKhau" type="password" id="txtMatKhau" size="20">
+    <br>
+    <p> <a href="#"> Quên mật khẩu ? </a> </p>
+   
+ 
+  </div>
+  <div id="contend2"> 
+<br>
+<br>
+   
+    <input type="submit" name="btnDangKy" id="btnDangKy" value="Đăng nhập" />
+   <!-- <input type="reset" name="btnBoQua" id="btnBoQua" value="Bỏ qua" />-->
+   <br>Hoặc đăng nhập với :
+    <input type="reset" name="o" id="o" value="Đăng nhập bằng Gmail" />
+    </form>
+  <img src=
+	   "image/fb.png"width="150" height="41">
+  <img src="image/gg.png" width="150" height="40"></div>
+</div>
+<div id="footer">
+  <div class="divft1" style="width: 100%;">
+    <p>&nbsp;</p>
+    <p><a href="WWWWWWWWWWWWWWWWWWWWWWWW/TC2.html"> TRANG CHỦ</a></p>
+  </div>
+  <div class="divft">
+    <h4>HỖ TRỢ DỊCH VỤ</h4>
+    <a href="#">Mua hàng trả góp</a> <br>
+    <a href="#">Chính sách bảo hành</a> <br>
+    <a href="#">Điều khoản</a> <br>
+    <a href="#">Chính sách giải quyết khiếu nại</a><br>
+    <a href="#">Điều khoản mua bán</a> </div>
+  <div class="divft">
+    <h4>THÔNG TIN LIÊN HỆ </h4>
+    <a href="#">Bán hàng online</a> <br>
+    <a href="#"><a href="#">Chăm sóc khách hàng</a> <br>
+    <a href="#">Hỗ trợ kỹ thuật</a> <br>
+    <a href="#">Hỗ trợ bảo hành sửa chữa</a> <br>
+    </div>
+  <div class="divft">
+    <h4>HỆ THỐNG 102 TRÊN TOÀN QUỐC </h4>
+    <a href="#">Liên hệ tổng đài</a> <br>
+	  <input type="button" value="1900.2019">
+    </div>
+  <div class="divft">
+    <h4>TẢI QUA NGAY</h4>
+    <img src="./image/app-store.png">
+     <img src="./image/play-store.png">
+	  </div>
+  <div class="divft2"> <br>
+    <hr>
+    <br>
+   <h4>@ 2018. Công ty cổ phần Thế Giới Di Động. GPDKKD: 0303217354 do sở KH & ĐT TP.HCM cấp ngày 02/01/2007. GPMXH: 238/GP-BTTTT do Bộ Thông Tin và Truyền Thông cấp ngày 04/06/2020.
+                        Địa chỉ: 128 Trần Quang Khải, P. Tân Định, Q.1, TP.Hồ Chí Minh. </h4>
+  </div>
+</div>
+	<script>
+		function KiemTra()
+{
+
+	var ten = window.document.dangky.txtTenDN.value;
+	var mk = window.document.dangky.txtMatKhau.value;
+	var ad= "admin";
+	var ad1= "admin123";
+	
+if(ten!=ad)
+	{
+		window.alert(" BẠN NHẬP SAI TÊN TÀI KHOẢN");
+		window.document.dangky.txtTenDN.focus();
+		return false;
+	}
+
+	if (mk!==ad1)
+		{
+		window.alert("MẬT KHẨU SAI");
+		document.dangky.txtMatKhau.focus();
+		return false;
+	 
+		}
+	
+	else if (mk=ad1)
+	window.alert("ĐĂNG NHẬP THÀNH CÔNG");
+   
+}</script>
+</body>
+</html>
